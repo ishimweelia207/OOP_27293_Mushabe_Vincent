@@ -66,7 +66,7 @@ For example:
 
 In this assignment, `~/` helps calculate the student discount as a whole number.
 
-  ## Part 4: Bug table
+  
   ## Part 4: Bug table
 
 | Bug | The line | Why it is wrong (your words) | Your fix |
