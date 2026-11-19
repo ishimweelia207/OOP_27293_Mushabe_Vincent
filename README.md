@@ -87,5 +87,18 @@ My predicted output:
 5
 
 
+## Why I think it prints this output
+
+The first output is `1` because the Bag starts with 0 items. 
+
+After calling `add()`, it becomes 1.
+
+The value -5 is rejected because the setter does not accept negative values.
+
+The second output is `5` because BigBag's `add()` method calls the parent `add()` method twice. Calling it two times adds 4 items.
+
+   Then 1 more item is added, making 5.
+
+
 
 
