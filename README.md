@@ -65,3 +65,15 @@ For example:
 - `237 * 17 ~/ 100` gives `40`.
 
 In this assignment, `~/` helps calculate the student discount as a whole number.
+
+  ## Part 4: Bug table
+Bug	The line	Why it is wrong (your words)	Your fix
+1	String _brand; int _battery;	The fields have no starting values.	Initialize them to '' and 0.
+2	SmartPhone(String brand, int battery, String system)	The parent constructor is not called.	Add : super(brand, battery).
+3	@override void restart()	The parent class has no restart method.	Add restart() to Phone.
+4	p.battery = 100;	There is no battery setter.	Add a setter that accepts values from 0 to 100.
+5	print(p.battery());	A getter is not a method.	Use print(p.battery);.
+Not a bug	Phone p = new Phone('Tecno', 50);	The new keyword is allowed when creating an object.	None
+
+
+
