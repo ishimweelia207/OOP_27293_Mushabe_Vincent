@@ -99,6 +99,16 @@ The second output is `5` because BigBag's `add()` method calls the parent `add()
 
    Then 1 more item is added, making 5.
 
+   ## Real output
+   
+    1
+    
+    5
+
+## Comparison
+
+My prediction was correct because the actual output is the same as my predicted output.
+
 
 
 
