@@ -8,9 +8,23 @@ Student ID:27293/2024
 Starting balance = 1,930 RWF
 Bus fare = 293 RWF
 Student discount = 13%
-      Output of main.dart
 
-(To be added after completing and running `main.dart`.)
+Output of main.dart
+
+Error: name too short
+Owner: Ama | Balance: 1000 RWF
+Owner: Mushabe Vincent | Balance: 1000 RWF
+Error: top-up must be 500 to 50000 RWF
+Topped up 2000 RWF
+Paid 293 RWF
+Paid 293 RWF
+Owner: Mushabe Vincent | Balance: 2414 RWF
+Student discount: 38 RWF
+Paid 255 RWF
+Owner: Mushabe Vincent | Balance: 1675 RWF
+Student discount: 13%
+
+
    Part 1: Why no setter for balance?
 
 There is no setter for balance because users should not change the balance directly.
