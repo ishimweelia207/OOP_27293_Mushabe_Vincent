@@ -33,15 +33,13 @@ The `~/` operator performs integer division. It divides two numbers and returns 
 
 For example:
 
-=237 * 17 / 100
+237 * 17 / 100 = 40.29
 
-   gives 40.29.
-   
-- `237 * 17 ~/ 100` gives `40`.
+237 * 17 ~/ 100 = 40
 
 In this assignment, `~/` helps calculate the student discount as a whole number.
 
-## part 3:the output of main.dart
+## Part 3: Output of main.dart
 
 Error: name too short
 
