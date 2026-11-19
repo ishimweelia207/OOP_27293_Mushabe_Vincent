@@ -16,31 +16,6 @@ Bus fare = 293 RWF
 
 Student discount = 13%
 
-Output of main.dart
-
-Error: name too short
-
-Owner: Ama | Balance: 1000 RWF
-
-Owner: Mushabe Vincent | Balance: 1000 RWF
-
-Error: top-up must be 500 to 50000 RWF
-
-Topped up 2000 RWF
-
-Paid 293 RWF
-
-Paid 293 RWF
-
-Owner: Mushabe Vincent | Balance: 2414 RWF
-
-Student discount: 38 RWF
-
-Paid 255 RWF
-
-Owner: Mushabe Vincent | Balance: 1675 RWF
-
-Student discount: 13%
 
 
   ## Part 1: Why no setter for balance?
@@ -65,6 +40,32 @@ For example:
 - `237 * 17 ~/ 100` gives `40`.
 
 In this assignment, `~/` helps calculate the student discount as a whole number.
+
+## part 3:the output of main.dart
+
+Error: name too short
+
+Owner: Ama | Balance: 1000 RWF
+
+Owner: Mushabe Vincent | Balance: 1000 RWF
+
+Error: top-up must be 500 to 50000 RWF
+
+Topped up 2000 RWF
+
+Paid 293 RWF
+
+Paid 293 RWF
+
+Owner: Mushabe Vincent | Balance: 2414 RWF
+
+Student discount: 38 RWF
+
+Paid 255 RWF
+
+Owner: Mushabe Vincent | Balance: 1675 RWF
+
+Student discount: 13%
 
   
   ## Part 4: Bug table
