@@ -43,7 +43,7 @@ Owner: Mushabe Vincent | Balance: 1675 RWF
 Student discount: 13%
 
 
-   Part 1: Why no setter for balance?
+  ## Part 1: Why no setter for balance?
 
 There is no setter for balance because users should not change the balance directly.
 
@@ -52,7 +52,7 @@ They should use the `topUp()` method to add money and the `pay()` method to pay 
 This helps protect the balance from incorrect changes.
 
 
-  Part 2: What does ~/ do?
+ ## Part 2: What does ~/ do?
 
 The `~/` operator performs integer division. It divides two numbers and returns a whole number without a decimal part.
 
