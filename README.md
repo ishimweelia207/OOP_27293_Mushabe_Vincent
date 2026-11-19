@@ -78,5 +78,13 @@ In this assignment, `~/` helps calculate the student discount as a whole number.
 | 5 | `print(p.battery());` | A getter is not a method. | Use `print(p.battery);`. |
 | Not a bug | `Phone p = new Phone('Tecno', 50);` | The `new` keyword is allowed when creating an object. | None. |
 
+## Part 5: Prediction
+
+My predicted output:
+
+1
+5
+
+
 
 
