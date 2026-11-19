@@ -45,9 +45,9 @@ In this assignment, `~/` helps calculate the student discount as a whole number.
 
 Error: name too short
 
-Owner: Ama | Balance: 1000 RWF
+Owner: Ama | Balance: 1930 RWF
 
-Owner: Mushabe Vincent | Balance: 1000 RWF
+Owner: Mushabe Vincent | Balance: 1930 RWF
 
 Error: top-up must be 500 to 50000 RWF
 
@@ -57,7 +57,7 @@ Paid 293 RWF
 
 Paid 293 RWF
 
-Owner: Mushabe Vincent | Balance: 2414 RWF
+Owner: Mushabe Vincent | Balance: 3344 RWF
 
 Student discount: 38 RWF
 
@@ -66,6 +66,7 @@ Paid 255 RWF
 Owner: Mushabe Vincent | Balance: 1675 RWF
 
 Student discount: 13%
+
 
   
   ## Part 4: Bug table
