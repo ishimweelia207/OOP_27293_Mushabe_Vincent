@@ -83,6 +83,7 @@ In this assignment, `~/` helps calculate the student discount as a whole number.
 My predicted output:
 
 1
+
 5
 
 
